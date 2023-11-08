@@ -5,7 +5,7 @@ const Home: React.FC = () => {
 
 
   return (
-    <ModelViewer />
+    <h1>Procedimientos de alto riesgo</h1>
   );
 
 }
