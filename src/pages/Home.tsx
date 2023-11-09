@@ -5,7 +5,7 @@ const Home: React.FC = () => {
 
 
   return (
-    <h1>Procedimientos de alto riesgo</h1>
+    <h1>Procedimientos de alto riesgo Offline</h1>
   );
 
 }
